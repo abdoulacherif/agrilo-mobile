@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Agrilo" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#25D366</item>
+        <item name="colorAccent">#FF6A00</item>
+    </style>
+</resources>
